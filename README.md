@@ -107,18 +107,4 @@ The dashboard provides valuable insights into:
 
 ---
 
-## 📸 Dashboard Preview
 
-*(Add your dashboard screenshot here)*
-
----
-
-## 👩‍💻 Author
-
-**Shalini Sankar**
-
-Aspiring Data Analyst | Power BI Developer | AI & ML Student
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
